@@ -41,10 +41,6 @@ header{
 	background: #2B4A6F;
 }
 
-header *{
-	color: white;
-}
-
 header .rowContainer{
 	overflow: hidden; 
 }
