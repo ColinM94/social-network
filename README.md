@@ -8,4 +8,4 @@ The main page of the website allows the user to create an account or log in to t
 
 A logged in user will be presented with their profile page. This page will display the users profile picture along with their description and allow the user to post status updates. The rest of the page will have dynamically generated content made up of the users status updates and other user activity.
 
-<img src="screenshots/1.png"/>
+<img src="screenshots/1.PNG"/>
